@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\bin\Debug\netcoreapp3.1\M-todos_Construtores.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\bin\Debug\netcoreapp3.1\M-todos_Construtores.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\bin\Debug\netcoreapp3.1\M-todos_Construtores.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\bin\Debug\netcoreapp3.1\M-todos_Construtores.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\bin\Debug\netcoreapp3.1\M-todos_Construtores.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\bin\Debug\netcoreapp3.1\M-todos_Construtores.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\obj\Debug\netcoreapp3.1\M-todos_Construtores.genruntimeconfig.cache
