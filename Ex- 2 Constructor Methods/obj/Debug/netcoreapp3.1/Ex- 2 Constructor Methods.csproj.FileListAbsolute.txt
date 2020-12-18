@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\bin\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\bin\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\bin\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\bin\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\bin\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\bin\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\M-todos_Construtores\Ex- 2 Constructor Methods\obj\Debug\netcoreapp3.1\Ex- 2 Constructor Methods.genruntimeconfig.cache
